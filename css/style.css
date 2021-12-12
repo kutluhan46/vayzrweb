@@ -1,0 +1,52 @@
+@charset "utf-8";
+#container {
+    background-color: #FFFFFF;
+    height: 1000px;
+    width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+#banner {
+    background-color: #959595;
+    height: 220px;
+    width: 1000px;
+}
+
+#arabanner {
+    background-color: #959595;
+    height: 50px;
+    width: 1000px;
+    margin-top: 10px;
+}
+#komutlar {
+    background-color: #818181;
+    height: 400px;
+    width: 300px;
+    margin-top: 10px;
+    float: left;
+    margin-right: 10px;
+}
+#icerik {
+    background-color: #818181;
+    height: 400px;
+    width: 690px;
+    float: left;
+    margin-top: 10px;
+}
+#icerik {
+    float: left;
+    height: 400px;
+    width: 690px;
+    margin-top: 10px;
+}
+#temizle {
+    clear: both;
+}
+#altbanner {
+    background-color: #6C6C6C;
+    height: 300px;
+    width: 1000px;
+    margin-top: 10px;
+}
